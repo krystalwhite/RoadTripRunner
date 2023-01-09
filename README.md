@@ -16,7 +16,7 @@ RoadTrip Runner provides users with the tools to create carefully-curated and me
 4. **Trip Repository**: Users may save their trips, thereby linking the user to the trip within our database. The user may view their named trip at a future point.
 
 
-5. **Demo Video**: Guests and users can view a demonstration video that details the features of the app.
+5. **Demo Video**: Guests and users can view a [demonstration video that details the features of the app](https://www.youtube.com/watch?v=Bu65C53aYwk&ab_channel=KrystalWhite).
 
 
 ## Future Development
